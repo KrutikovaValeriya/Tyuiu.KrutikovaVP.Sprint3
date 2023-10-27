@@ -17,7 +17,7 @@ namespace Tyuiu.KrutikovaVP.Sprint3.Task4.V11
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #3                                                                *");
             Console.WriteLine("* Тема: Алгоритмы циклической структуры                                    *");
-            Console.WriteLine("* Задание #0                                                               *");
+            Console.WriteLine("* Задание #4                                                               *");
             Console.WriteLine("* Вариант #11                                                              *");
             Console.WriteLine("* Выполнил: Крутикова Валерия Павловна | АСОиУБ-23-3                       *");
             Console.WriteLine("****************************************************************************");
